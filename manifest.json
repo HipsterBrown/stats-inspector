@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "CSS Stats Inspector",
+  "description": "This dev tools extension helps analyze the stylesheets of a site you're viewing.",
+  "version": "0.1",
+
+  "minimum_chrome_version": "40.0",
+  "devtools_page": "devtools.html",
+
+  "permissions": [
+    "<all_urls>"
+  ] 
+}

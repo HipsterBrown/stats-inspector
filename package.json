@@ -1,0 +1,11 @@
+{
+  "name": "css-stats-inspector",
+  "version": "0.1.0",
+  "description": "A dev tools extension for inspecting and breaking down a site's css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HipsterBrown <headhipster@hipsterbrown.com>",
+  "license": "MIT"
+}
